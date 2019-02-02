@@ -1,0 +1,5 @@
+7F331C burnt coral (article)
+FFA185 coral (figure)
+FF6638 grapefruit
+7F5042 to be determined (header,footer)
+CC522D sunburst (aside,body)
